@@ -1,0 +1,30 @@
+_repo: What-Great-Men-Have-Said-About-WomenTen-Cent-Pocket-Series-No.-77_16418
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Haldeman-Julius, Marcet
+    alias: Haldeman-Julius, Anna Marcet Haldeman
+    birthdate: 1887
+    deathdate: 1941
+    gutenberg_agent_id: '487'
+    url: http://www.gutenberg.org/2009/agents/487
+description: ''
+gutenberg_issued: '2005-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16418'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Quotations, maxims, etc.'
+- !lcsh 'Quotations, English'
+- !lcc 'PN'
+title: 'What Great Men Have Said About Women
+
+  Ten Cent Pocket Series No. 77'
+url: http://www.gutenberg.org/ebooks/16418
